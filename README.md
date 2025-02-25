@@ -1,4 +1,5 @@
 # Valify x Sertie Frontend Web Development Challenge
+### [Video](https://drive.google.com/file/d/1NE49YmNFNSZpglHOvwFF_7iE3CJ1ZfYy/view)
 ## Challenge Objective
 "The goal is to enhance the frontend of an existing web application with a strong focus on UI/UX improvements, user flow, and interactivity. The overarching business objective is to increase student sign-ups and retention by making the platform more engaging and seamless to use."
 
