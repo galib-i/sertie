@@ -22,3 +22,16 @@
 
 #### Testimonials  
 - [x] Integrate reviews throughout the UI to make the experience feel more personal and authentic
+
+
+![localhost_5173_ (5)](https://github.com/user-attachments/assets/16915dd5-3a93-4954-9e01-58acb488d5c4)
+
+![localhost_5173_ (6)](https://github.com/user-attachments/assets/9e56de59-d68a-4b8a-9d0c-b01f56747e99)
+
+![localhost_5173_ (7)](https://github.com/user-attachments/assets/1fa2793a-a21f-4a60-9836-13d5bb48d798)
+
+![localhost_5173_ (8)](https://github.com/user-attachments/assets/688940d3-0ca1-45f8-827a-ba01c1b16180)
+
+![localhost_5173_ (9)](https://github.com/user-attachments/assets/0df04ba8-5604-4006-b930-81fb33bd89c8)
+
+![localhost_5173_ (10)](https://github.com/user-attachments/assets/541933b4-9bbe-4638-ba45-82d97c385548)
